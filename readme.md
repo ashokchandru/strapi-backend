@@ -1,9 +1,9 @@
-This repo contains Strapi headless CMS project
-ASTRO + GitHub Actions + Strapi API
-✅ Strapi as the headless CMS
-✅ Astro as the static frontend
-✅ GitHub Actions for CI/CD
-✅ GitHub Pages for free hosting
+This repo contains Strapi headless CMS project  
+ASTRO + GitHub Actions + Strapi API  
+✅ Strapi as the headless CMS  
+✅ Astro as the static frontend  
+✅ GitHub Actions for CI/CD  
+✅ GitHub Pages for free hosting  
 
 1️⃣ Repo 1 → strapi-backend
 
@@ -18,9 +18,11 @@ API plugins
 
 Config files
 
-Seeds (optional)
+Seeds (optional)  
+  
+  
 
-2️⃣ Repo 2 → mirror-frontend
+2️⃣ Repo 2 → mirror-frontend  
 
 Make this repository public (GitHub Pages hosting is free only for public repos).
 
